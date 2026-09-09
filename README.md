@@ -1,2 +1,2 @@
 # SongDown
-Songs Downloader Desktop .exe
+Song Downloader Desktop .exe
